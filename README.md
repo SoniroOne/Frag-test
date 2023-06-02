@@ -7,9 +7,9 @@ This project contains tests for the Frag game logs functionality. It verifies tw
 To run the tests, please follow the steps below:
 
 1. Install the dependencies by running the following command:
-npm install
+`npm install`
 2. Run the tests using the following command:
-npm test
+`npm test`
 
 ## Test Cases
 
