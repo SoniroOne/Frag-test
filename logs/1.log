@@ -1,0 +1,40 @@
+ Shoot from: 'player_entity_1_character', shotId: -1, burstId: -1, tick:56963, local
+ Pos: 529.508362, 512.448730, 33.247391, dir: -0.422802, -0.901110, 0.093713
+ Hit player: 'player_entity_7_character'
+ Hit body part: 'Torso'
+ Hit distance: 1.327466 (528.947, 511.252, 33.372)
+ Shoot from: 'player_entity_1_character', shotId: -1, burstId: -1, tick:57028, local
+ Pos: 526.748108, 512.467529, 33.228367, dir: -0.410033, -0.905814, 0.104478
+ Hit player: 'player_entity_6_character'
+ Hit body part: 'Torso'
+ Hit distance: 1.150431 (526.276, 511.425, 33.349)
+ Shoot from: 'player_entity_1_character', shotId: -1, burstId: -1, tick:57088, local
+ Pos: 523.575928, 512.602356, 33.234173, dir: -0.173181, -0.978281, 0.111883
+ Hit player: 'player_entity_5_character'
+ Hit body part: 'Torso'
+ Hit distance: 0.960405 (523.410, 511.663, 33.342)
+ Shoot from: 'player_entity_1_character', shotId: -1, burstId: -1, tick:57173, local
+ Pos: 520.780273, 512.631287, 33.235661, dir: -0.357306, -0.920824, 0.154780
+ Hit player: 'player_entity_4_character'
+ Hit body part: 'Torso'
+ Hit distance: 0.826007 (520.485, 511.871, 33.364)
+ Shoot from: 'player_entity_1_character', shotId: -1, burstId: -1, tick:57237, local
+ Pos: 517.527161, 513.413391, 33.235909, dir: -0.317526, -0.943184, 0.095520
+ Hit player: 'player_entity_3_character'
+ Hit body part: 'Torso'
+ Hit distance: 1.336558 (517.103, 512.152, 33.364)
+ Shoot from: 'player_entity_1_character', shotId: -1, burstId: -1, tick:57319, local
+ Pos: 515.054016, 512.941956, 33.222229, dir: -0.465036, -0.880020, 0.094061
+ Hit player: 'player_entity_2_character'
+ Hit body part: 'Torso'
+ Hit distance: 0.980347 (514.598, 512.079, 33.314)
+ Shoot from: 'player_entity_1_character', shotId: -1, burstId: -1, tick:57418, local
+ Pos: 517.720276, 513.696533, 33.245998, dir: -0.281440, -0.958058, 0.049583
+ Hit player: 'player_entity_3_character'
+ Hit body part: 'Torso'
+ Hit distance: 1.710508 (517.239, 512.057, 33.331)
+ Shoot from: 'player_entity_1_character', shotId: -1, burstId: -1, tick:57530, local
+ Pos: 524.052795, 512.646973, 33.240498, dir: -0.476512, -0.876870, 0.059806
+ Hit player: 'player_entity_5_character'
+ Hit body part: 'Torso'
+ Hit distance: 1.194535 (523.483, 511.599, 33.312)
